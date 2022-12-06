@@ -5,7 +5,7 @@ How to test:
 - Open pull request to the repository
 - Wait for the bot to comment
 - Sign your pull request via adding a comment
-- After PR is merged, new signature will be added to https://github.com/5afe/cla-assistant-test-signatures
+- After PR is merged, new signature will be added to https://github.com/5afe/cla-assistant-test-signatures and the PR will be locked.
 
 How to configure:
 - See the https://github.com/5afe/cla-assistant-test/blob/main/.github/workflows/cla.yml for an example
