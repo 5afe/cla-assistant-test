@@ -1,4 +1,5 @@
 # cla-assistant-test
+Hello
 Test repository for configuring CLA assistant
 
 How to test:
