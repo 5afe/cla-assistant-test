@@ -15,3 +15,5 @@ Notes:
 - signatures repository can be private
 - signatures can be stored in the same repository
 - personal access token will have an expiration date and will have to be updated after it expires for the CLA checks to work.
+
+6/12/22
